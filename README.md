@@ -153,7 +153,7 @@ Courses | Duration | Effort | Prerequisites | Discussion
 ~~[Class-based Program Design](coursepages/class-based/README.md)~~ | 13 weeks | 5-10 hours/week | Systematic Program Design, High School Math | [chat](https://discord.com/channels/744385009028431943/891411727294562314)
 [Programming Languages](https://insideempire.github.io/CS61A-Website-Archive/) | 11 weeks | 4-8 hours/week | Systematic Program Design | [chat](https://discord.gg/8BkJtXN)
 [Object-Oriented Design](https://www.keithschwarz.com/cs106b/) | 13 weeks | 5-10 hours/week | Class-based Program Design | [chat](https://discord.com/channels/744385009028431943/891412022120579103)
-[Software Architecture](https://www.coursera.org/learn/software-architecture) | 4 weeks | 2-5 hours/week | Object Oriented Design | [chat](https://discord.com/channels/744385009028431943/891412169638432788)
+[Basic Software Architecture](https://youtube.com/playlist?list=PLvv0ScY6vfd9wBflF0f6ynlDQuaeKYzyc&si=BHu2265md9tKklGv)/[Advance Software Architecture](https://web.mit.edu/6.031/www/sp22/)| 4 weeks/20 weeks | 5-10 hours/week | Object Oriented Design | [chat](https://discord.com/channels/744385009028431943/891412169638432788)
 
 ### Core math
 Discrete math (Math for CS) is a prerequisite and closely related to the study of algorithms and data structures. Calculus both prepares students for discrete math and helps students develop mathematical maturity.
